@@ -1,4 +1,6 @@
-### Hi there 👋
+### slagrave's repos
+
+You can find my personal projects here! I sometimes participate in coding events, so you can find several year's repos for `Advent of Code` and `MIT Battlecode` here, along with other repos for things like my [esoteric programming language](https://github.com/SLaGrave/syscript) or [creative coding](https://github.com/SLaGrave/nannou-workspace).
 
 <!--
 **SLaGrave/slagrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
