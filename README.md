@@ -19,5 +19,5 @@ I have a bachelor's in Computer Science, and make use of that in my day job writ
 
 # Stats
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=SLaGrave&show_icons=true&theme=synthwave&hide_rank=true">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLaGrave&hide=html&layout=donut&theme=synthwave">
+<a><img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=SLaGrave&show_icons=true&theme=synthwave&hide_rank=true"></a>
+<a><img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLaGrave&hide=html&layout=donut&theme=synthwave"></a>
