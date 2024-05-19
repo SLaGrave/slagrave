@@ -17,6 +17,15 @@ I have a bachelor's in Computer Science, and make use of that in my day job writ
 - I am a big fan of the original computer generated art - none of this AI generated crap, it's all about procedural generation for me. You can see some of my attempts at that in my [nannou-workspace](https://github.com/SLaGrave/nannou-workspace) repo.
 - I occasionally partake in coding events, so you can find several repos dedicated to `Advent of Code`, `MIT Battlecode`, and `NASA Space Apps`.
 
+# Skills
+
+<details open>
+  <summary><b>✒️ Programming languages</b></summary>
+  <br>
+  [![Programming Languages](https://skillicons.dev/icons?i=python,rust,java,c,cpp,svelte)](https://skillicons.dev)
+</details>
+
+
 # Stats
 
 <a><img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=SLaGrave&show_icons=true&theme=synthwave&hide_rank=true"></a>
