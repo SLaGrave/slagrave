@@ -22,7 +22,7 @@ I have a bachelor's in Computer Science, and make use of that in my day job writ
 <details open>
   <summary><b>✒️ Programming languages</b></summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,rust,java,c,cpp,svelte">
+  <img src="https://skillicons.dev/icons?i=python,rust,java,c,cpp,cs,svelte,gdscript">
 </details>
 
 
